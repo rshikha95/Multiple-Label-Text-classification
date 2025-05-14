@@ -1,1 +1,2 @@
 # Multiple-Label Text classification
+### Toxic comment classification is a multi-label text classification challenge aimed at identifying various types of toxicity in textual comments. The dataset for this task is imbalanced and includes comments exhibiting different levels of toxicity, such as threats, obscenity, insults, and identity-based hate. The objective of this project is to develop a machine learning model capable of accurately detecting and labeling each type of toxicity present in a given comment.
